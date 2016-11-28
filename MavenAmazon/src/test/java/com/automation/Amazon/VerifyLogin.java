@@ -1,4 +1,4 @@
-package com.automation.facebook;
+package com.automation.Amazon;
 
 import org.testng.annotations.Test;
 
